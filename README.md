@@ -11,7 +11,7 @@ By using this project You will agree that I cannot be held responsible if it wil
 I was in need of fitting a uSD to IDE adapter inside a cramped case, the connector for it was horizontal, but the only space left was in the vertical direction.
 So I made this adapter.
 
-Fundamentally, it is meant to angle a 2x22 pin, 2.0mm pitch connector by 90 degrees,
+Fundamentally, it is meant to angle a 2x22 pin, 2.0mm pitch connector by 90 degrees.
 
 ![Adapter with female and male connectors installed](pics/adapter_01.jpg)
 
@@ -20,7 +20,7 @@ Fundamentally, it is meant to angle a 2x22 pin, 2.0mm pitch connector by 90 degr
 
 ### Ordering the boards
 
-You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/PLACEHOLDER.html) and support me or download 
+You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/Angled_44_pin_2_0mm_pitch_adapter_a7c972a8.html) and support me or download 
 the gerbers and have them printed wherever you like!!!
 
 ## Hardware
